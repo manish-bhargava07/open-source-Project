@@ -6,4 +6,5 @@ this is only for pratice purposes
 -> i am fresher now
  i want to add list to my main brakch
 - this is fist list
-- -this is second list
+- this is second list
+-  finalyy list is done
